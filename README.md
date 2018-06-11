@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web application designed to streamline communication between artists and clients. It is designed using the MERN tech stack and still is an ongoing project. Current it has the following features:
+This project is a web application designed to streamline communication between artists and clients. It is designed using the MERN tech stack and still is an ongoing project. Currently it has the following features:
 
 * Secure routes with JWT authentication
 * Database storage using MongoDB and Mongoose
